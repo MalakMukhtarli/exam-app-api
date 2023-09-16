@@ -1,6 +1,6 @@
-using ExamApp.API.Models.Grades;
 using ExamApp.API.Routes;
-using ExamApp.API.Services.Grades;
+using ExamApp.Business.Models.Grades;
+using ExamApp.Business.Services.Grades;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExamApp.API.Controllers;

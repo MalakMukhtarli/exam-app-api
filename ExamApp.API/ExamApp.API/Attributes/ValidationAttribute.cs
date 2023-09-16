@@ -1,4 +1,4 @@
-using ExamApp.API.Exceptions;
+using ExamApp.Business.Exceptions;
 using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace ExamApp.API.Attributes;

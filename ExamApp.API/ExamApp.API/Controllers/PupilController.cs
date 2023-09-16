@@ -1,6 +1,6 @@
-using ExamApp.API.Models.Pupils;
 using ExamApp.API.Routes;
-using ExamApp.API.Services.Pupils;
+using ExamApp.Business.Models.Pupils;
+using ExamApp.Business.Services.Pupils;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExamApp.API.Controllers;

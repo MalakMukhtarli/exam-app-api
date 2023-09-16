@@ -1,5 +1,5 @@
-using ExamApp.API.Exceptions;
-using ExamApp.API.Extensions;
+using ExamApp.Business.Exceptions;
+using ExamApp.Business.Extensions;
 using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
